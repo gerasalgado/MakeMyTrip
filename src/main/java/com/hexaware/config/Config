@@ -1,0 +1,29 @@
+driver = chrome
+URL = https://www.makemytrip.com/
+Title = Learn Automation
+
+-------------------------LOGIN---------------------------------
+username = jaknabemla@vusra.com
+password = 0123456789a@
+wrong user
+wuser=jaknabemlavusra.com
+
+----------------------REGISTRATION-----------------------------
+new user
+new_user=boydimapsa@vusra.com
+OTP=012345
+name=Anakyn Skywalker
+new_password=0123456789a@
+
+
+--------------------------FLY----------------------------------
+Fly
+City = Chennai
+City_from=Mumbai
+
+----------------------HOTEL CHECKING---------------------------
+Room = 3
+Price = 2
+Start_date = Oct 10 2022
+End_date = Oct 20 2022
+City_Hotel = delhi
